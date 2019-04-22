@@ -1,0 +1,10 @@
+* 5 - Entradas digitales --> hay una variable "byte", marcada dentro de la práctica, que no se para que sirve.
+De hecho, parece transparente, ya que, al quitarla, el comportamiento del Arduino es el mismo.
+
+* 7 - Zumbador pasivo --> Se añade una biblioteca. En teoria las bibliotecas te añaden funciones al arduino IDE con tal de ampliarlas.
+En este caso añadimos un biblioteca que te da funciones para hacer tonos en un zumbador pasivo. La duda viene en que, si tu abres la biblioteca,
+el archivo .h, solo veo que hay notas definida, no hay ninguna función ni nada (cosa que me parece raro). No se de donde sale la variable 
+thisNote, y claro, la función, por ejemplo, "tone" no tengo npi de donde sale.
+
+*10 - Módulo Sensor --> Buscar que es excactamente la variable "long".
+
